@@ -1,0 +1,242 @@
+{
+    "Hair" : [
+        {
+            "id": 0,
+            "name": "Bangs",
+            "path": "/hair/Bangs"
+        },
+        {
+            "id": 1,
+            "name": "Bowl cut hair",
+            "path": "/hair/Bowl_cut_hair"
+        },
+        {
+            "id": 2,
+            "name": "Braids",
+            "path": "/hair/Braids"
+        },
+        {
+            "id": 3,
+            "name": "Bun hair",
+            "path": "/hair/Bun_hair"
+        },
+        {
+            "id": 4,
+            "name": "Curly Bob",
+            "path": "/hair/Curly_Bob"
+        },
+        {
+            "id": 5,
+            "name": "Curly short hair",
+            "path": "/hair/Curly_short_hair"
+        },
+        {
+            "id": 6,
+            "name": "Dreads",
+            "path": "/hair/Dreads"
+        },
+        {
+            "id": 7,
+            "name": "Fro Bun",
+            "path": "/hair/Fro_Bun"
+        },
+        {
+            "id": 8,
+            "name": "Half shaved head",
+            "path": "/hair/Half_shaved_head"
+        },
+        {
+            "id": 9,
+            "name": "Mohawk",
+            "path": "/hair/Mohawk"
+        },
+        {
+            "id": 10,
+            "name": "Shaved head",
+            "path": "/hair/Shaved_head"
+        },
+        {
+            "id": 11,
+            "name": "Short hair",
+            "path": "/hair/Short_hair"
+        },
+        {
+            "id": 12,
+            "name": "Straight hair",
+            "path": "/hair/Straight_hair"
+        },
+        {
+            "id": 13,
+            "name": "Wavy Bob",
+            "path": "/hair/Wavy_bob"
+        }
+    ],
+    "Faces": [
+        {
+            "id": 0,
+            "name": "face 1",
+            "path": "/faces/face_1"
+        },
+        {
+            "id": 1,
+            "name": "face 2",
+            "path": "/faces/face_2"
+        },
+        {
+            "id": 2,
+            "name": "face 3",
+            "path": "/faces/face_3"
+        },
+        {
+            "id": 3,
+            "name": "face 4",
+            "path": "/faces/face_4"
+        },
+        {
+            "id": 4,
+            "name": "face 5",
+            "path": "/faces/face_5"
+        },
+        {
+            "id": 5,
+            "name": "face 6",
+            "path": "/faces/face_6"
+        },
+        {
+            "id": 6,
+            "name": "face 7",
+            "path": "/faces/face_7"
+        },
+        {
+            "id": 7,
+            "name": "face 8",
+            "path": "/faces/face_8"
+        }
+    ],
+    "Eyes": [
+        {
+            "id": 0,
+            "name": "Angry eyes",
+            "path": "/eyes/Angry_eyes"
+        },
+        {
+            "id": 1,
+            "name": "Cherry eyes",
+            "path": "/eyes/Cherry_eyes"
+        },
+        {
+            "id": 2,
+            "name": "Confused eyes",
+            "path": "/eyes/Confused_eyes"
+        },
+        {
+            "id": 3,
+            "name": "Normal eyes",
+            "path": "/eyes/Normal_eyes"
+        },
+        {
+            "id": 4,
+            "name": "Sad eyes",
+            "path": "/eyes/Sad_eyes"
+        },
+        {
+            "id": 5,
+            "name": "Sleepy eyes",
+            "path": "/eyes/Sleepy_eyes"
+        },
+        {
+            "id": 6,
+            "name": "Starstruck eyes",
+            "path": "/eyes/Starstruck_eyes"
+        },
+        {
+            "id": 7,
+            "name": "Winking eyes",
+            "path": "/eyes/Winking_eyes"
+        }
+    ],
+    "Smiles": [
+        {
+            "id": 0,
+            "name": "Awkward Smile",
+            "path": "/smiles/Awkward_Smile"
+        },
+        {
+            "id": 1,
+            "name": "Barces",
+            "path": "/smiles/Barces"
+        },
+        {
+            "id": 2,
+            "name": "Gap Smile",
+            "path": "/smiles/Gap_Smile"
+        },
+        {
+            "id": 3,
+            "name": "Kawaii",
+            "path": "/smiles/Kawaii"
+        },
+        {
+            "id": 4,
+            "name": "Open Sad",
+            "path": "/smiles/Open_Sad"
+        },
+        {
+            "id": 5,
+            "name": "Opened Smile",
+            "path": "/smiles/Opened_Smile"
+        },
+        {
+            "id": 6,
+            "name": "Teeth Smile",
+            "path": "/smiles/Teeth_Smile"
+        },
+        {
+            "id": 7,
+            "name": "Unimpressed",
+            "path": "/smiles/Unimpressed"
+        }
+    ],
+    "Accessories":[
+        {
+            "id": 0,
+            "name": "Cat ears",
+            "path": "/accessories/Cat_ears"
+        },
+        {
+            "id": 1,
+            "name": "Clown Nose",
+            "path": "/accessories/Clown_Nose"
+        },
+        {
+            "id": 2,
+            "name": "Face Mask",
+            "path": "/accessories/Face_Mask"
+        },
+        {
+            "id": 3,
+            "name": "Glasses",
+            "path": "/accessories/Glasses"
+        },
+        {
+            "id": 4,
+            "name": "Mustache",
+            "path": "/accessories/Mustache"
+        },
+        {
+            "id": 5,
+            "name": "Sailormoon Crown",
+            "path": "/accessories/Sailormoon_Crown"
+        },
+        {
+            "id": 6,
+            "name": "Sleep Mask",
+            "path": "/accessories/Sleep_Mask"
+        },
+        {
+            "id": 7,
+            "name": "Sunglasses",
+            "path": "/accessories/Sunglasses"
+        }
+    ]
+}
